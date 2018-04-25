@@ -1,12 +1,12 @@
 # OpenGL Game
 The game was created in Opengl, with the help of glut.
 Player jumps to a maze and must find a path that leeds out of the maze.
-Project was created during the graphics course in the university of East Sarajevo 
+Project was created during the graphics course in the university of East Sarajevo
 (Computer Science departement) by Miroslav Maksimovic.
 
 # Getting started
 Compliling program using the following terminal command :
- g++ -o maze maze.cpp -lSOIL -lGLU -lglut -lGL
+g++ -o labyrinth labyrinth.cpp -lSOIL -lGLU -lglut -lGL
 
 
 

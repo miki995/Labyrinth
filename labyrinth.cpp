@@ -569,7 +569,7 @@ void renderScene(void) {
 	glColor3f(1.0f, 1.0f, 1.0f);
 	glBegin(GL_QUADS);
 	glNormal3f( 0.0, 1.0, 0.0);
-    glTexCoord2f(0,0);
+  glTexCoord2f(0,0);
 	glVertex3f(0, 0.0f, 0);
 	glTexCoord2f(1,0);
 	glVertex3f(dimension * 5, 0.0f, 0);

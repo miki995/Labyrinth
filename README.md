@@ -8,6 +8,9 @@ Project was created during the graphics course in the university of East Sarajev
 Compliling program using the following terminal command :
 g++ -o labyrinth labyrinth.cpp -lSOIL -lGLU -lglut -lGL
 
+Running program using:
+
+./labyrinth
 
 
 You can rotate the maze by pressing the "R" key.
